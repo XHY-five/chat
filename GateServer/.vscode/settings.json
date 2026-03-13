@@ -1,0 +1,7 @@
+{
+  "cmake.useCMakePresets": "always",
+  "cmake.configureOnOpen": false,
+  "cmake.buildDirectory": "${workspaceFolder}/build-vs2022-x64",
+  "cmake.defaultConfigurePreset": "vs2022-x64-debug",
+  "cmake.defaultBuildPreset": "build-vs2022-x64-debug"
+}
