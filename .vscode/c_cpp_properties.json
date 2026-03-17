@@ -1,17 +1,16 @@
 {
     "configurations": [
         {
-            "name": "Win32",
-            "includePath": [
-                "${workspaceFolder}/**"
-            ],
+            "name": "GateServer",
+            "configurationProvider": "ms-vscode.cmake-tools",
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
             "compilerPath": "D:/msys64/mingw64/bin/g++.exe",
-            "cppStandard": "c++17"
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4

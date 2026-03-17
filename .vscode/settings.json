@@ -1,5 +1,11 @@
 {
-    "cmake.sourceDirectory": "/home/five/chat/ChatServer",
+    "cmake.sourceDirectory": "${workspaceFolder}/GateServer",
+    "cmake.buildDirectory": "${workspaceFolder}/build/gateserver",
+    "cmake.configureOnOpen": false,
+    "cmake.configureSettings": {
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "terminal.integrated.env.windows": {
         "QT_BIN": "D:\\Qt\\6.8.3\\mingw_64\\bin",
         "QT_MAKE": "D:\\Qt\\Tools\\mingw1310_64\\bin\\mingw32-make.exe",
