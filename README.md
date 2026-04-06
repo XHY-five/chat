@@ -31,7 +31,7 @@
 - 登录后消息输入与发送页面
 - 多服务基础架构搭建
 - Socket 通信基础封装
-- 服务端模块拆分（GateServer / StatusServer / ChatServer）
+- 服务端模块拆分（GateServer / StatusServer）
 
 ### 开发中
 
